@@ -2,7 +2,7 @@
 title: Blog182
 published: 2026-03-09
 description: 'Demo of blogging'
-image: ''
+image: './underwater.webp'
 tags: [Examples, Test Tag]
 category: Test Category
 draft: false 
